@@ -1,1 +1,1 @@
-A script that compiles a C file and creates an executable named cisfun. The C file name will be saved in the variable 
+A C program that prints the given text using function puts
