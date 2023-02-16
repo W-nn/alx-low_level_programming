@@ -1,1 +1,1 @@
-A C program that prints the given text using function puts
+A  C program that prints given text using function printf, followed by a new line
