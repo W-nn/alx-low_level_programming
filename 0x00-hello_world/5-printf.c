@@ -1,4 +1,4 @@
-#iclude < stdio.h >
+#include <stdio.h>
 /**
  * main - A C program that prints exact given text
  * Return: 0 (Success)
